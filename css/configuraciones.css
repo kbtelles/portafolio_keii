@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
+
+section{
+    width: 1366 px;
+}
+
+/*Colores que serviran para variables en el css*/
+:root {
+    --color1 : rgb(113, 158, 255);
+
+    --color2 : rgb(0, 0, 0);
+    
+    --color3 : rgb(177, 177, 177);
+    
+    --color4: rgb(255, 255, 255);
+
+    --color5: rgb(255, 131, 139);
+
+
+}
+
+/*SECCIONES Y ARTICULOS*/
+/* Seccion ancho definido, alto auto
